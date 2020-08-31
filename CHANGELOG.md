@@ -1,6 +1,9 @@
 # Change Log
 ## Next Version
 
+### Fixes
+- Fixed `.swift-version` to use Swift 5.2 instead of Swift 4.1 #246
+
 ## 4.2.0
 
 ### Swift Template Changes
